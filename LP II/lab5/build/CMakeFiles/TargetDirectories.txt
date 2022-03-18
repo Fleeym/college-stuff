@@ -1,0 +1,4 @@
+C:/Users/Gabriel/Documents/Code/college-stuff/LP II/lab5/build/CMakeFiles/lab5.dir
+C:/Users/Gabriel/Documents/Code/college-stuff/LP II/lab5/build/CMakeFiles/PACKAGE.dir
+C:/Users/Gabriel/Documents/Code/college-stuff/LP II/lab5/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Gabriel/Documents/Code/college-stuff/LP II/lab5/build/CMakeFiles/ZERO_CHECK.dir
