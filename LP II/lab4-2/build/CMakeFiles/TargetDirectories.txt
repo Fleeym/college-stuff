@@ -1,3 +1,0 @@
-C:/Users/Gabriel/Documents/Code/LP II/lab4-2/build/CMakeFiles/lab4.dir
-C:/Users/Gabriel/Documents/Code/LP II/lab4-2/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Gabriel/Documents/Code/LP II/lab4-2/build/CMakeFiles/ZERO_CHECK.dir
