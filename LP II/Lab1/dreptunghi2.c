@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*int main(){
+int main(){
     float lungime, latime;
     float arie, perimetru;
 
@@ -16,4 +16,4 @@
     printf("Aria este: %0.2f, iar perimetrul este: %0.2f.", arie, perimetru);
 
     return 0;
-}*/
+}
