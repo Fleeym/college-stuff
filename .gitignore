@@ -4,6 +4,8 @@ build/
 # IGNORE .vscode
 .vscode/
 
+*.txt
+
 # IGNORE CMAKE STUFF
 CMakeLists.txt.user
 CMakeCache.txt
